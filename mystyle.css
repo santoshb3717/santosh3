@@ -1,0 +1,81 @@
+#shop_img {
+    height: 50px;
+    width: 50px;
+    margin-left: 10px;
+}
+.fa {
+    font-size: 100px;
+    margin-left: 50px;
+}
+
+.navbar_item {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 25px;
+}
+.third {
+    background: #bcaead;
+    height: 350px;
+    width: auto;
+}
+#girl_img {
+    height: 350px;
+    width: 300px;
+    margin-left: 10px;
+}
+#title_name {
+    color: white;
+    margin-left: 50px;
+}
+.btn {
+    width: 120px;
+    border-radius: 10px;
+    background: none;
+    color: white;
+    margin-left: 50px;
+}
+
+.img_box {
+    border-radius: 10px;
+    height: 400px;
+    width: 550px;
+    background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTnXnzyyFY0hsq2DRjido3g1K1ruJcGvsDSy3Gm2NfZJf1Bpbxp");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    float: right;
+}
+
+.bg_color {
+    border-radius: 13px;
+    height: 180px;
+    width: auto;
+    background: #f0eff5;
+}
+.img2_box {
+    border-radius: 13px;
+    height: 180px;
+    width: auto;
+    background-image: url("https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5xLgtthvJcgzlJ6fOL61XL6wM3rKWe882xcfwIH9F-UlnwTF3");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.img3_box {
+    border-radius: 13px;
+    height: 210px;
+    width: 630px;
+    background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS-JBCLU1UhLXypgyd61GUeDVkL1eZz6o6gJMcGxzwgCzg2kPYx");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.card-img-top {
+    height: 200px !important;
+    border-radius: 15px 15px 0px 0px;
+}
+.btn-primary {
+    margin-left: 150px !important;
+}
+.card {
+    border-radius: 15px;
+}
